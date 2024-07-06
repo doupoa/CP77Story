@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 立即骇入
-      link: /markdown-examples
+      link: /started
     - theme: alt
       text: 获取游戏
       link: https://www.cyberpunk.net/cn/zh-cn/buy
