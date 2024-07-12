@@ -18,7 +18,7 @@
 
 -------
 
-## About CP77Story{# EN}
+## About CP77Story
 * This is a collection of story elements for Cyberpunk 2077.
 * This project aims to provide readers or experienced players with pure game elements and complete storylines.
 * At present, all content is created by the current library owner. We welcome all enthusiasts to jointly maintain CP77Story
